@@ -1,0 +1,12 @@
+Pyber Homework Kristian Farner Analysis:
+
+1)  When you look at the bubble chart you can see that there is a trend for fares to be higher 
+    when there are less drivers on the road. This would make sense because if the supply of drivers
+    is low then the price demanded for a ride should increase.
+
+2)  If you compare the total drivers pie chart to the total fares pie chart you can see that suburban 
+    riders are on average paying more per ride than urban riders. There are more than four times
+    the amount of urban drivers but their total fares are only greater than suburban by double.
+
+3)  Overall this data shows that the company should be focused primarily on our suburban and urban markets. 
+    although rural areas are higher priced fares the total fares only account for 5% of the total.
